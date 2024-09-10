@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770883059783",
+    "project_id": "screensaver2",
+    "storage_bucket": "screensaver2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770883059783:android:feedcabec714476f07b162",
+        "android_client_info": {
+          "package_name": "com.example.screensaver2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9Rdl07a-VSLkzrmy5daYDUtvnuxj74g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
